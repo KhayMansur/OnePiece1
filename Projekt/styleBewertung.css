@@ -1,0 +1,70 @@
+.sterne {
+color: rgba(250, 216, 25, 0.849);
+}
+p { 
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: large;
+}
+
+
+h1 {
+font-size: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+
+
+
+
+
+.Kommentar{ 
+display: flex;
+justify-content: center;
+align-items: stretch;
+flex-wrap: wrap;
+
+
+}
+.Kommentar > .Kommentare{ 
+    width: 33%;
+    max-width: 400px;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    border: 20px solid rgb(255, 255, 255); 
+    border-radius: 20px;
+    background-color: rgb(189, 179, 179);
+}
+
+.Formular {
+text-align: center;
+background-color: #ffffff;
+
+}
+
+header {
+    text-align: center;
+    background-color: #91c987;
+    padding: 20px;
+    border-radius: 10px; 
+    margin-bottom: 20px;
+    color: rgb(0, 0, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+
+h3 { 
+color: #4249ac83;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h2 {
+font-size: 30px;
+color: rgb(131, 129, 143);
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
